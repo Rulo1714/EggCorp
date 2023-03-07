@@ -1,0 +1,2 @@
+pull (baja la informacion de github)
+push (sube la informacion a github)
